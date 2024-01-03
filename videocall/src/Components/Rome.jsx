@@ -14,7 +14,7 @@ function Rome() {
             sharedLinks:[
                 {
                     name:"Copy Link",
-                    url:`http://localhost:5173/room/${roomId}`
+                    url:`https://vccall.netlify.app//room/${roomId}`
                 }
             ],
             scenario:{
